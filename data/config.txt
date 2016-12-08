@@ -1,0 +1,8 @@
+PedigreeFile ../softwareTest/test.0.fam
+PedigreeName test
+NameVariable NAME
+FatherVariable FATHER
+MotherVariable MOTHER
+ShapeVariable SEX
+ColorVariable SAMPLED
+TextVariable NAME
