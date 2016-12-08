@@ -5,4 +5,4 @@ if [ -z "$1" ]; then
     exit
 fi 
 
-java -jar -cp $(dirname $0) pedigreeSA.jar "$*"
+java -jar $(dirname $0)/pedigreeSA.jar "$*"
