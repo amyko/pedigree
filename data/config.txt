@@ -1,4 +1,4 @@
-PedigreeFile ../softwareTest/test.0.fam
+PedigreeFile test.0.fam
 PedigreeName test
 NameVariable NAME
 FatherVariable FATHER
