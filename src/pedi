@@ -1,8 +1,0 @@
-#!/bin/bash
-
-if [ -z "$1" ]; then
-    echo "Option file required. Usage: ./pedi myOptionFile"
-    exit
-fi 
-
-java -jar $(dirname $0)/pedigreeSA.jar "$*"
