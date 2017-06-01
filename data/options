@@ -13,3 +13,4 @@ refpop	#refPopFileName
 0.0001	#conv
 2	#numThreads
 2	#numRun
+30  #beta
